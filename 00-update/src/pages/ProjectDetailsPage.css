@@ -1,0 +1,17 @@
+.project-container {
+  text-align: left;
+  height: 100vh;
+  align-content: center;
+  background: linear-gradient(
+    180deg,
+    rgba(151, 249, 174, 1) 0%,
+    rgb(70, 178, 85) 80%
+  );
+  article {
+    width: 40rem;
+    padding: 2rem;
+    margin: 0 auto;
+    background-color: rgb(214, 255, 235);
+    border-radius: 2rem;
+  }
+}
